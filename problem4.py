@@ -122,8 +122,8 @@ def count_validated_passports(passports, part):
 
 
 passports = prepare_input('input4.txt')
-print(count_validated_passports(passports, part=1))
-print(count_validated_passports(passports, part=2))
+# print(count_validated_passports(passports, part=1))
+# print(count_validated_passports(passports, part=2))
 
 
 
