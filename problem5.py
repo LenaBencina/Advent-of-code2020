@@ -24,11 +24,6 @@ def get_row_or_column(chars):
 
     for i in chars:
 
-        # print('l: ' + str(l) + '  u: ' + str(u))
-        # print('m: ' + str(m))
-        # print('i: ' + i)
-        # print()
-
         # calculate middle of the interval
         m = l + (u - l) / 2
 
